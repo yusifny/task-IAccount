@@ -1,0 +1,14 @@
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/bin/Debug/netcoreapp3.1/Task-IAccount
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/bin/Debug/netcoreapp3.1/Task-IAccount.deps.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/bin/Debug/netcoreapp3.1/Task-IAccount.runtimeconfig.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/bin/Debug/netcoreapp3.1/Task-IAccount.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/bin/Debug/netcoreapp3.1/Task-IAccount.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/bin/Debug/netcoreapp3.1/Task-IAccount.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.AssemblyInfo.cs
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Task-IAccount/obj/Debug/netcoreapp3.1/Task-IAccount.genruntimeconfig.cache
